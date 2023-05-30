@@ -216,7 +216,7 @@ def get_response(user_input):
 
 while True:
 
-    print('Anna: ' ' + get_response(input('>> ')))
+    print('Anna: ' ' + get_response(input('you: ')))
 
 	#
 
